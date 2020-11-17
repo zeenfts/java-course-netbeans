@@ -1,2 +1,2 @@
 # java-course-netbeans
-Documentation of Java from Lecture
+Documentation of Java from My Course Lecture
